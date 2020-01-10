@@ -11,4 +11,6 @@ readingTime: 2 min
 ---
 eyyyyyyyyyyyyyyyyyyyyyyyy
 
+<!-- more -->
+
 ![](/images/welcome.jpg)
