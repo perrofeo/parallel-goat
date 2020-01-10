@@ -39,6 +39,7 @@ fields:
   config:
     required: true
 pages:
+- blog/posts/dexter/ejemplo1.md
 - blog/posts/dexter/i-am-the-doctor.md
 - blog/posts/dexter/nobodys-taxi-service.md
 - blog/posts/dexter/really-brilliant-ideas.md
